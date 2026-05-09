@@ -2,6 +2,8 @@
 
 A lightweight Firefox/Mullvad Browser extension to manage and switch between DNS-over-HTTPS (DoH) providers instantly from the toolbar.
 
+<img width="417" height="661" alt="image" src="https://github.com/user-attachments/assets/9ecb4f72-15ad-4390-8b49-5045d15bd8a6" />
+
 ## Features
 
 - **One-click switching** between saved DoH providers
